@@ -1,1 +1,1 @@
-# CINEPLEX-webBasedCinemaManagementsystem
+# CINEPLEX-webBasedCinemaManagementSystem
